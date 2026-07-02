@@ -13,10 +13,11 @@
 ## Directory
 
 ```
-level 0
-level 1
-level 2
-level 3
+C
+ ├── level 0
+ ├── level 1
+ ├── level 2
+ └── level 3
 ```
 
 ---
@@ -30,9 +31,6 @@ level 3
 
 ## Progress
 
-| Level | Solved |
-|------|------:|
-| Level 0 | 0 |
-| Level 1 | 0 |
-| Level 2 | 0 |
-| Level 3 | 0 |
+| Language | Level 0 | Level 1 | Level 2 | Level 3 |
+|----------|-------:|-------:|-------:|-------:|
+| C | 0 | 0 | 0 | 0 |
