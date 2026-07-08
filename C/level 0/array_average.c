@@ -1,4 +1,5 @@
 /*배열의 평균값*/
+
 #include <stdio.h>
 #include <stdbool.h>
 #include <stdlib.h>
