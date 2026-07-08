@@ -1,4 +1,5 @@
 /*숫자 비교하기*/
+
 #include <stdio.h>
 #include <stdbool.h>
 #include <stdlib.h>
