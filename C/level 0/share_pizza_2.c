@@ -1,4 +1,5 @@
 /*피자 나눠 먹기(2)*/
+
 #include <stdio.h>
 #include <stdbool.h>
 #include <stdlib.h>
