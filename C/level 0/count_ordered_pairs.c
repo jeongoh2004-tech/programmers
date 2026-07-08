@@ -1,4 +1,5 @@
 /*순서쌍의 개수*/
+
 #include <stdio.h>
 #include <stdbool.h>
 #include <stdlib.h>
