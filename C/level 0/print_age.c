@@ -1,4 +1,5 @@
 /*나이 출력*/
+
 #include <stdio.h>
 #include <stdbool.h>
 #include <stdlib.h>
