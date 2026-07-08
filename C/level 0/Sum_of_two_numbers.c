@@ -1,4 +1,5 @@
 /*두 수의 합 구하기*/
+
 #include <stdio.h>
 #include <stdbool.h>
 #include <stdlib.h>
