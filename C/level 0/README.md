@@ -20,3 +20,6 @@
 |[양꼬치](https://github.com/jeongoh2004-tech/programmers/blob/main/C/level%200/lamb_skewers.c)|✅|
 |[짝수의 합](https://github.com/jeongoh2004-tech/programmers/blob/main/C/level%200/sum_of_even_numbers.c)|✅|
 |[순서쌍의 개수](https://github.com/jeongoh2004-tech/programmers/blob/main/C/level%200/count_ordered_pairs.c)|✅|
+|[점의 위치 구하기](https://github.com/jeongoh2004-tech/programmers/blob/main/C/level%200/point_location.c)|✅|
+|[최댓값 만들기(1)](https://github.com/jeongoh2004-tech/programmers/commit/2103a8af7e01c409f8e58dd5eff82391a86efa5a)|✅|
+|[숨어있는 숫자의 덧셈(1))](https://github.com/jeongoh2004-tech/programmers/commit/f0dbbfd62a21c28b51e2aa5349872c9b9f33d498)|✅🔥|
