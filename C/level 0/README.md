@@ -27,3 +27,4 @@
 |[배열 두 배 만들기](https://github.com/jeongoh2004-tech/programmers/blob/main/C/level%200/double_array.c)|✅|
 |[중앙값 구하기](https://github.com/jeongoh2004-tech/programmers/blob/main/C/level%200/find_median.c)|✅|
 |[최빈값 구하기](https://github.com/jeongoh2004-tech/programmers/blob/main/C/level%200/find_mode.c)|✅|
+|[짝수는 싫어요](https://github.com/jeongoh2004-tech/programmers/blob/main/C/level%200/dislike_even_numbers.c)|✅|
