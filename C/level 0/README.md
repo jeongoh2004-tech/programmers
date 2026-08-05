@@ -25,3 +25,4 @@
 |[숨어있는 숫자의 덧셈(1))](https://github.com/jeongoh2004-tech/programmers/commit/f0dbbfd62a21c28b51e2aa5349872c9b9f33d498)|✅🔥|
 |[분수의 덧셈](https://github.com/jeongoh2004-tech/programmers/blob/main/C/level%200/sum_of_fractions.c)|✅|
 |[배열 두 배 만들기](https://github.com/jeongoh2004-tech/programmers/blob/main/C/level%200/double_array.c)|✅|
+|[중앙값 구하기](https://github.com/jeongoh2004-tech/programmers/blob/main/C/level%200/find_median.c)|✅|
