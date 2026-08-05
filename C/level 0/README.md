@@ -28,3 +28,4 @@
 |[중앙값 구하기](https://github.com/jeongoh2004-tech/programmers/blob/main/C/level%200/find_median.c)|✅|
 |[최빈값 구하기](https://github.com/jeongoh2004-tech/programmers/blob/main/C/level%200/find_mode.c)|✅|
 |[짝수는 싫어요](https://github.com/jeongoh2004-tech/programmers/blob/main/C/level%200/dislike_even_numbers.c)|✅|
+|[아이스 아메리카노](https://github.com/jeongoh2004-tech/programmers/blob/main/C/level%200/ice.americano.c)|✅|
