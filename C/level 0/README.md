@@ -34,3 +34,4 @@
 |[뒤집힌 문자열](https://github.com/jeongoh2004-tech/programmers/blob/main/C/level%200/reversed.string.c)|✅|
 |[직각삼각형 출력하기](https://github.com/jeongoh2004-tech/programmers/blob/main/C/level%200/print_right_triangle.c)|✅|
 |[짝수 홀수 개수](https://github.com/jeongoh2004-tech/programmers/blob/main/C/level%200/count_odd_even.c)|✅|
+|[문자 반복 출력하기](https://github.com/jeongoh2004-tech/programmers/blob/main/C/level%200/repeat_character.c)|✅|
