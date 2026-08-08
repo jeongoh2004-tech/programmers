@@ -30,3 +30,4 @@
 |[짝수는 싫어요](https://github.com/jeongoh2004-tech/programmers/blob/main/C/level%200/dislike_even_numbers.c)|✅|
 |[아이스 아메리카노](https://github.com/jeongoh2004-tech/programmers/blob/main/C/level%200/ice.americano.c)|✅|
 |[배열 뒤집기](https://github.com/jeongoh2004-tech/programmers/blob/main/C/level%200/reverse_array.c)|✅|
+|[옷가게 할인 받기](https://github.com/jeongoh2004-tech/programmers/blob/main/C/level%200/clothing_store_discount.c)|✅|
