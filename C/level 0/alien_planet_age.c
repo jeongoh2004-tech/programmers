@@ -14,7 +14,7 @@ char* solution(int age) {
         i++;
     }
     char *pa=answer; char *pb=answer+i-1;
-    for(int j=0; j<i/2; j++){
+    for(int j=0; j<i/2; j++){ //배열 역순으로 정렬 시키기
         char tmp=*pa;
         *pa=*pb;
         *pb=tmp;
