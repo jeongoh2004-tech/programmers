@@ -6,7 +6,7 @@
 
 | Level | Solved |
 |------|-------:|
-| Level 0 | 32 |
+| Level 0 | 39 |
 | Level 1 | 0 |
 | Level 2 | 0 |
 | Level 3 | 0 |
