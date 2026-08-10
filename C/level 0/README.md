@@ -41,3 +41,4 @@
 |[진료 순서 정하기](https://github.com/jeongoh2004-tech/programmers/blob/main/C/level%200/patient_priority_order.c)|✅|
 |[개미 군단](https://github.com/jeongoh2004-tech/programmers/blob/main/C/level%200/ant_army.c)|✅|
 |[모스부호(1)](https://github.com/jeongoh2004-tech/programmers/blob/main/C/level%200/morse_code_1.c)|✅|
+|[가위 바위 보](https://github.com/jeongoh2004-tech/programmers/blob/main/C/level%200/rock_paper.scissors.c)|✅|
