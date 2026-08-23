@@ -47,3 +47,4 @@
 |[공 던지기](https://github.com/jeongoh2004-tech/programmers/blob/main/C/level%200/throw_ball.c)|✅|    
 |[배열 회전시키기](https://github.com/jeongoh2004-tech/programmers/blob/main/C/level%200/rotate_array.c)|✅|
 |[주사위의 개수](https://github.com/jeongoh2004-tech/programmers/blob/main/C/level%200/count_dice.c)|✅|
+|[합성수 찾기](https://github.com/jeongoh2004-tech/programmers/blob/main/C/level%200/find_composite_numbers.c)|✅|
