@@ -46,3 +46,4 @@
 |[2차원으로 만들기](https://github.com/jeongoh2004-tech/programmers/blob/main/C/level%200/make_2d_array.c)|✅|
 |[공 던지기](https://github.com/jeongoh2004-tech/programmers/blob/main/C/level%200/throw_ball.c)|✅|    
 |[배열 회전시키기](https://github.com/jeongoh2004-tech/programmers/blob/main/C/level%200/rotate_array.c)|✅|
+|[주사위의 개수](https://github.com/jeongoh2004-tech/programmers/blob/main/C/level%200/count_dice.c)|✅|
