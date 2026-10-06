@@ -49,3 +49,4 @@
 |[주사위의 개수](https://github.com/jeongoh2004-tech/programmers/blob/main/C/level%200/count_dice.c)|✅|
 |[합성수 찾기](https://github.com/jeongoh2004-tech/programmers/blob/main/C/level%200/find_composite_numbers.c)|✅|
 |[팩토리얼](https://github.com/jeongoh2004-tech/programmers/blob/main/C/level%200/factorial.c)|✅|
+|[모음 제거](https://github.com/jeongoh2004-tech/programmers/blob/main/C/level%200/remove_vowels.c)|✅|
