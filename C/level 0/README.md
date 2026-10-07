@@ -52,3 +52,4 @@
 |[모음 제거](https://github.com/jeongoh2004-tech/programmers/blob/main/C/level%200/remove_vowels.c)|✅|
 |[문자열 정렬하기(1)](https://github.com/jeongoh2004-tech/programmers/blob/main/C/level%200/sort_string_1.c)|✅|
 |[소인수분해](https://github.com/jeongoh2004-tech/programmers/blob/main/C/level%200/prime_factorization.c)|✅|
+|[컨트롤 제트](https://github.com/jeongoh2004-tech/programmers/blob/main/C/level%200/crtl_z.c)|✅|
