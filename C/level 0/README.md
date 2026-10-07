@@ -54,3 +54,4 @@
 |[소인수분해](https://github.com/jeongoh2004-tech/programmers/blob/main/C/level%200/prime_factorization.c)|✅|
 |[컨트롤 제트](https://github.com/jeongoh2004-tech/programmers/blob/main/C/level%200/crtl_z.c)|✅|
 |[배열 원소의 길이](https://github.com/jeongoh2004-tech/programmers/blob/main/C/level%200/array_element_length.c)|✅|
+|[중복된 문자 제거](https://github.com/jeongoh2004-tech/programmers/blob/main/C/level%200/remove_duplicate_characters.c)|✅|
