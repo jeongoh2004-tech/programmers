@@ -58,3 +58,4 @@
 |[삼각형의 완성조건(1)](https://github.com/jeongoh2004-tech/programmers/blob/main/C/level%200/triangle_condition_1.c)|✅|
 |[가까운 수](https://github.com/jeongoh2004-tech/programmers/blob/main/C/level%200/closest_number.c)|✅|
 |[369게임](https://github.com/jeongoh2004-tech/programmers/blob/main/C/level%200/game_369.c)|✅|
+|[암호 해독](https://github.com/jeongoh2004-tech/programmers/blob/main/C/level%200/decode_cipher.c)|✅|
