@@ -60,3 +60,4 @@
 |[369게임](https://github.com/jeongoh2004-tech/programmers/blob/main/C/level%200/game_369.c)|✅|
 |[암호 해독](https://github.com/jeongoh2004-tech/programmers/blob/main/C/level%200/decode_cipher.c)|✅|
 |[대문자와 소문자](https://github.com/jeongoh2004-tech/programmers/blob/main/C/level%200/uppercase_and_lowercase.c)|✅|
+|[영어가 싫어요](https://github.com/jeongoh2004-tech/programmers/blob/main/C/level%200/hate_english.c)|✅🔥|
