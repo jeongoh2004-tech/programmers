@@ -62,3 +62,4 @@
 |[대문자와 소문자](https://github.com/jeongoh2004-tech/programmers/blob/main/C/level%200/uppercase_and_lowercase.c)|✅|
 |[영어가 싫어요](https://github.com/jeongoh2004-tech/programmers/blob/main/C/level%200/hate_english.c)|✅🔥|
 |[한 번만 등장한 문자](https://github.com/jeongoh2004-tech/programmers/blob/main/C/level%200/character_appearing_once.c)|✅|
+|[약수 구하기](https://github.com/jeongoh2004-tech/programmers/blob/main/C/level%200/find_divisors.c)|✅|
