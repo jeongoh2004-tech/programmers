@@ -65,3 +65,4 @@
 |[약수 구하기](https://github.com/jeongoh2004-tech/programmers/blob/main/C/level%200/find_divisors.c)|✅|
 |[편지](https://github.com/jeongoh2004-tech/programmers/blob/main/C/level%200/letter.c)|✅|
 |[가장 큰 수 찾기](https://github.com/jeongoh2004-tech/programmers/blob/main/C/level%200/find_largest_number.c)|✅|
+|[문자열 계산하기](https://github.com/jeongoh2004-tech/programmers/blob/main/C/level%200/calculate_string.c)|✅|
